@@ -1,3 +1,5 @@
-source=Jonas-Bots/godot-jam-template@ddd2934
-muzzle_angle_deg=24.83
-note=Art bed_getup offset 0; MuzzleAim removed
+source=Jonas-Bots/godot-jam-template@6736a19
+version=3.3
+muzzle_aim_deg=6.78
+muzzle_crouch_aim_deg=10.78
+hero_anims_md5=63235dffe34a0055b63ebd77169d0bcb
