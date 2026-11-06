@@ -1,8 +1,8 @@
-source=Jonas-Bots/godot-jam-template@56d1191
-version=3.4.1
-hero_anims_sha256=a524d2e296a0b981a29544d52a920b851e61f8465d9ffc931a65da16e71f4c7f
-hero_anims_md5=ee929c0ec3024647a96cce9505557dff
-pck_sha256=9c522fd6ed9787ff42becc79c30f4b1943d4bf7f53c8fc4736e69b8a22555137
-pck_bytes=10673564
+source=Jonas-Bots/godot-jam-template@4d6f6b6
+version=3.5
+hero_anims_sha256=afbb840c381feddc64dec1e3036550ef769f2e190c494af741f65dd2605d834c
+hero_anims_md5=f6bae86353c0fd9e26161992b2b6bcd7
+pck_sha256=899cc82d9af82ecfa596ea1874050edaa2e4335c7ff99b28066eae96f70c9ee4
+pck_bytes=10725012
 wasm_bytes=39514754
-exported=2026-11-06T15:08:02Z
+exported=2026-11-06T16:37:36Z
