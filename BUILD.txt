@@ -1,5 +1,8 @@
-source=Jonas-Bots/godot-jam-template@6736a19
-version=3.3
-muzzle_aim_deg=6.78
-muzzle_crouch_aim_deg=10.78
-hero_anims_md5=63235dffe34a0055b63ebd77169d0bcb
+source=Jonas-Bots/godot-jam-template@718f99f
+version=3.4
+hero_anims_sha256=a524d2e296a0b981a29544d52a920b851e61f8465d9ffc931a65da16e71f4c7f
+hero_anims_md5=ee929c0ec3024647a96cce9505557dff
+pck_sha256=0b71e78ea35a86ac5e8377b9c044e921347cdd5e79641378f66ea9dc0e9b5a23
+pck_bytes=10673452
+wasm_bytes=39514754
+exported=2026-11-06T14:59:20Z
