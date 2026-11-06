@@ -1,0 +1,3 @@
+source=Jonas-Bots/godot-jam-template@ddd2934
+muzzle_angle_deg=24.83
+note=Art bed_getup offset 0; MuzzleAim removed
